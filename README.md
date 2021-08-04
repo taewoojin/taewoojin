@@ -2,8 +2,8 @@
 ### Hi there 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taewoojin&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![taewoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=taewoojin&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewoojin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
